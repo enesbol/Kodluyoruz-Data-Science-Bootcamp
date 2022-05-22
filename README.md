@@ -2,7 +2,7 @@
 I will add the works that I've done in the bootcamp.
 
 # Bootcamp Topics
-1.Week - Python Basics(Data types-Loops-Non-Scalar-Data Types-Pandas and NLP example)
+1.Week - Python Basics(Data types-Loops-Non-Scalar-Data Types) Pandas and NLP example
 
 2.Week - Statistics 
 
